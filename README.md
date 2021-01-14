@@ -6,4 +6,4 @@ hi me//
 여기서 확인하기를 바란다.
 3.https://all-record.tistory.com/176 여기에서 root-context.xml에 관해 참조를 많이 했다.
 4.src/main/resources경로이므로 이클립스에서 비교해라 여기선 똑같이 써준것.
-src/main/java도 같은 맥락으로 경로 
+src/main/java도 같은 맥락으로 경로 src/main 폴더를 눌러서 2개의 파일을 확인해라 옆에 파일명만 누르고 하나 나와서 당황하지 말기
