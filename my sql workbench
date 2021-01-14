@@ -1,0 +1,6 @@
+INSERT INTO movie(movie_id, movie_name, director, types)
+VALUES(1,'iron','감독1','SF'),
+(2,'스파이더맨','감독2','SF'),
+(3,'라이온킹','감독3','다큐멘터리');
+//table 옆 차트 그림 눌러 시각화 추천 
+자바와 col 다르게 하면 인터넷창에 시각화 불가능
