@@ -13,3 +13,4 @@ src/main/java도 같은 맥락으로 경로 src/main 폴더를 눌러서 2개의
 포트변경이라는 말은 server파일에 포트를 바꾸라는게 아니라 단순히 eclipse에서 servers칸에 있는 tomcat을 더블클릭
 modules를 눌러 하나 있는 경로를 /(뭔가 이름)을 (뭔가 이름)을 지워주고 /만 하면 된다.
 http://localhost:8080/ 이렇게만 쳐도 나올것이다.
+![image](https://user-images.githubusercontent.com/58061933/104809790-11320800-5833-11eb-98eb-8663f75e617b.png)
